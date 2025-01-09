@@ -23,3 +23,6 @@ Requirements
 C compiler (e.g., GCC).
 Text editor or IDE for coding.
 Basic understanding of TCP/UDP communication and string operations in C.
+
+HOW To RUN:
+Just use Visual Studio code 2022 to run .sln files directly.
